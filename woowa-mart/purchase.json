@@ -1,7 +1,7 @@
 [
     {
         id: 1,
-		items: [
+	items: [
             {
               "id": 2,
                 "name": "[든든] 진맛살 1kg",
@@ -22,7 +22,7 @@
                 "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11263-main-01.png",
                 "price": 1300,
                 "quantity": 5,
-            },
-		]
+            }
+	]
     }
 ]
