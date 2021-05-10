@@ -20,7 +20,7 @@
       "name": "[든든] 신-키리모찌 1kg",
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11161-main-01.png",
       "price": 12000,
-      "quantity": 1,
+      "quantity": 3,
       "checked": true
   },
   {
@@ -28,7 +28,7 @@
       "name": "[든든] 흑곤약 250g",
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11263-main-01.png",
       "price": 1300,
-      "quantity": 1,
+      "quantity": 5,
       "checked": true
   },
   {
@@ -45,7 +45,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11280-main-01.png",
       "price": 1100,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11315-main-01.png",
       "price": 2800,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11323-main-01.png",
       "price": 8400,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 9,
@@ -69,6 +69,6 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11328-main-01.png",
       "price": 9000,
       "quantity": 1,
-      "checked": false
+      "checked": true
   }
 ]
