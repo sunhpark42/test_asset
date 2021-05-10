@@ -7,21 +7,21 @@
                 "name": "[든든] 진맛살 1kg",
                 "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11157-main-01.png",
                 "price": 7100,
-                "quantity": 1,
+                "quantity": 1
             },
             {
               "id": 3,
                 "name": "[든든] 신-키리모찌 1kg",
                 "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11161-main-01.png",
                 "price": 12000,
-                "quantity": 3,
+                "quantity": 3
             },
             {
               "id": 4,
                 "name": "[든든] 흑곤약 250g",
                 "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11263-main-01.png",
                 "price": 1300,
-                "quantity": 5,
+                "quantity": 5
             }
 	]
     }
