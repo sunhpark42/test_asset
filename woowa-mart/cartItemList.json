@@ -5,7 +5,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11153-main-01.png",
       "price": 4900,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11157-main-01.png",
       "price": 7100,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11161-main-01.png",
       "price": 12000,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11263-main-01.png",
       "price": 1300,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
       "image": "https://cdn-mart.baemin.com/goods/custom/20200525/11277-main-01.png",
       "price": 4000,
       "quantity": 1,
-      "checked": false
+      "checked": true
   },
   {
     "id": 6,
